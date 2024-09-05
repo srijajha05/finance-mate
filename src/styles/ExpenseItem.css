@@ -1,0 +1,35 @@
+.expense-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .expense-info {
+    flex: 1;
+    margin-left: 10px;
+  }
+  
+  .category {
+    font-weight: bold;
+    padding: 2px 5px;
+  }
+  
+  .category.food {
+    color: green;
+  }
+  
+  .category.transport {
+    color: blue;
+  }
+  
+  .category.entertainment {
+    color: orange;
+  }
+  
+  .category.others {
+    color: gray;
+  }
+  

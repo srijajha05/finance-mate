@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/srijajha05/finance-mate/static/css/main.b8551002.css",
+    "main.js": "/srijajha05/finance-mate/static/js/main.5ada3827.js",
+    "index.html": "/srijajha05/finance-mate/index.html",
+    "main.b8551002.css.map": "/srijajha05/finance-mate/static/css/main.b8551002.css.map",
+    "main.5ada3827.js.map": "/srijajha05/finance-mate/static/js/main.5ada3827.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8551002.css",
+    "static/js/main.5ada3827.js"
+  ]
+}
